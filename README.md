@@ -1,4 +1,4 @@
-# todo-list (EJS)
+# Todo-list (EJS)
 
 A todo-list created using Express and EJS, a simple templating language that lets you generate HTML markup with plain JavaScript.
 
